@@ -2,7 +2,7 @@
 #
 # This is an example function named 'hello'
 # which prints 'Hello, world!'.
-This is a example of a connection of a R project/package to git from RStudio
+# This is a example of a connection of a R project/package to git from RStudio
 #
 # You can learn more about package authoring with RStudio at:
 #
