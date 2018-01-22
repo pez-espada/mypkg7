@@ -1,11 +1,14 @@
 Package: mypkg7
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.0
+Version: 0.1.1
 Author: Carlos J. Dommar
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
+    Trying to use this as an example to see how commits and ush can 
+    be done from Rstudio
+    Once again
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
